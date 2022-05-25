@@ -1,0 +1,13 @@
+.flexmain{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+.flexmain>input{
+    width: 450px;
+    height: 30px;
+}
+.flexmain>button{
+    width: 50px;
+
+}
